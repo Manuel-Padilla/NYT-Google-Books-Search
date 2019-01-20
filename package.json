@@ -1,0 +1,18 @@
+{
+  "name": "NYT-Google-Books-Search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Manuel-Padilla/NYT-Google-Books-Search.git",
+  "author": "Manuel Padilla",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "if-env": "^1.0.4",
+    "mongoose": "^5.4.5"
+  },
+  "devDependencies": {
+    "concurrently": "^4.1.0",
+    "nodemon": "^1.18.9"
+  }
+}
